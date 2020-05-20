@@ -1,0 +1,48 @@
+#include <iostream>
+#include <cstdlib>
+#include <windows.h>
+using namespace std;
+
+int t[1000];
+int licznik=0,liczba;
+int plik=a.txt;
+int main() {
+	
+	
+	for (int i=0; i<licznik; i++)
+	{
+        "liczba":1;
+    } if(liczba!=plik){
+      t[licznik] = liczba;
+	}else{
+	 licznik++;	
+	}
+    {
+        "liczba":3;
+    }  if(liczba!=plik){
+      t[licznik] = liczba;
+	}else{
+	 licznik++;	
+	}
+    {
+        "liczba":2;
+    }  if(liczba!=plik){
+      t[licznik] = liczba;
+	}else{
+	 licznik++;	
+	}
+    {
+        "liczba":4;
+	}  if(liczba!=plik){
+      t[licznik] = liczba;
+	}else{
+	 licznik++;	
+	}
+	
+	
+	
+	
+	
+	
+	return 0;
+}
